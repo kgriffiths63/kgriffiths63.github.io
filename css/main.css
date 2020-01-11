@@ -6,9 +6,24 @@ header, nav, main, footer {
     margin: 1.25rem auto;
     max-width: 760px;
 }
-header {
-    background-color: teal;
+header, footer {
+    background-color: rgb(25, 72, 94);
     color: white;
-    text-align: left;
+    text-align: center;
+}
+header {
     padding: 1rem;
+}
+header img {
+    float: right;
+    margin: 10px;
+    border: 1px solid black;
+   
+    
+}
+footer {
+    padding: .75rem;
+}
+footer a  {
+    Color: white;
 }
