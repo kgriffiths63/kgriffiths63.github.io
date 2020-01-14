@@ -23,6 +23,7 @@ footer {
 header {
     padding: .75rem;
     font-family: 'Lobster', cursive;
+    font-size: 24px;
 }
 
 header img {
